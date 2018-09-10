@@ -12,6 +12,7 @@
     <module>code/routines</module>
     <module>jobs/process/gitjob1_0.1</module>
     <module>jobs/process/gitjob2_0.1</module>
+    <module>jobs/process/gitjob3_0.1</module>
   </modules>
   <properties>
     <talend.project.name>GITLAB</talend.project.name>
